@@ -1,0 +1,12 @@
+.header-action{  
+    display: inline-block; /* Foi colocado como Display Inline Block, Devido a pseudoclasse "Hover", que faz o link crescer! */
+    font-size: 20px;       /* Sendo necessario ser um display Inline BLock */
+    font-weight: 400;
+    color: #FFF;
+    margin-right: 33px;
+    transition: all 0.3s;   
+}
+
+.header-action:hover{
+    transform: scale(1.1);
+}
