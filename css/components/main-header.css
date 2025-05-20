@@ -5,3 +5,9 @@
     padding: 10px 20px;
     background-color: #252422;  
 }
+
+.main-header .icon{
+    width: 90px;
+    height: 90px;
+    margin:0px;
+}
