@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     box-sizing: border-box;
     padding: 106px 90px; 
     height: 690px;
@@ -7,17 +7,17 @@
     border-bottom: 10px solid gray;
 }
 
-.banner .wrapper{
+.main-banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 690px; 
 }
 
-.banner .box-title{
+.main-banner .wrapper .box-title{
     margin-bottom: 32px;
 }
 
-.banner .navigation{
+.main-banner .wrapper .navigation{
     display: flex;
     justify-content: space-around;
 }
