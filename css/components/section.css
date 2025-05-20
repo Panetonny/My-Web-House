@@ -4,20 +4,40 @@
     border-bottom: 10px solid black;
 }
 
+.section .main-title.-second{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
 .section.-skill{
     box-sizing: border-box;
     height: 800px;
 }
-.section.-skill .main-title.-second{
-    margin-bottom: 50px;
-    margin-top: 10px;
-}
+
 .section.-skill .wrapper{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 50px;
 }
+
+.section.-skill .wrapper .skills-tec:nth-child(odd){
+    margin-right: 100px;
+}
+
+.section.-skill .wrapper .skills-tec:last-child{
+    margin-top: 150px;
+}
+
+.section.-projects{
+    background-image: url(../../assets/img/background\ 2.png);
+}
+
+.section.-projects .wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+
 
 
 

@@ -1,0 +1,25 @@
+.main-project{
+    display: inline-block;
+    margin-right: 104px;
+}
+
+.main-project:last-child{
+    margin: 0px;
+}
+
+.main-project .wrapper .icon{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+
+.main-project .wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-project .description{
+    margin-top: 10px;
+    color: white;
+}

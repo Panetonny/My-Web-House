@@ -10,10 +10,3 @@
     height: 100px;
 }
 
-.skills-tec:nth-child(odd){
-    margin-right: 100px;
-}
-
-.skills-tec:last-child{
-    margin-top: 150px;
-}
