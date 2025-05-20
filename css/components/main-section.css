@@ -1,42 +1,41 @@
-.section{
-    background-color: #999999;
-    padding: 40px 20px;  
+.main-section{
+    padding: 40px 30px;  
     border-bottom: 10px solid black;
 }
 
-.section .main-title.-second{
-    margin-top: 10px;
+.main-section .main-title{
     margin-bottom: 50px;
+   
 }
 
-.section.-skill{
+.main-section.-skill{
+    background-color: #999999;
     box-sizing: border-box;
     height: 800px;
 }
 
-.section.-skill .wrapper{
+.main-section.-skill .wrapper{
     display: flex;
     flex-wrap: wrap;
-    text-align: center;
     justify-content: center;
 }
 
-.section.-skill .wrapper .skills-tec:nth-child(odd){
+.main-section.-skill .wrapper .skills-tec:nth-child(odd){
     margin-right: 100px;
 }
 
-.section.-skill .wrapper .skills-tec:last-child{
+.main-section.-skill .wrapper .skills-tec:last-child{
     margin-top: 150px;
 }
 
-.section.-projects{
+.main-section.-projects{
     background-image: url(../../assets/img/background\ 2.png);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.section.-projects .wrapper{
+.main-section.-projects .wrapper{
     display: flex;
     flex-wrap: wrap;
 }
