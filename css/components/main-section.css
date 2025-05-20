@@ -20,6 +20,10 @@
     justify-content: center;
 }
 
+.main-section.-skill .wrapper .skills-tec{
+    margin-bottom: 20px;
+}
+
 .main-section.-skill .wrapper .skills-tec:nth-child(odd){
     margin-right: 100px;
 }
@@ -35,10 +39,7 @@
     align-items: center;
 }
 
-.main-section.-projects .wrapper{
-    display: flex;
-    flex-wrap: wrap;
-}
+
 
 
 
