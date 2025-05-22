@@ -6,7 +6,6 @@
     box-sizing: border-box;
     width: 250px;
     height: 250px;
-    background-color: black;
 }
 
 .main-project .description{
@@ -15,4 +14,8 @@
     font-weight: 400px;
     margin-top: 10px;
     color: white;
+}
+
+.main-project.-background_black .icon{
+    background-color: black;
 }

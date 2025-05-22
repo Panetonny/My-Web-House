@@ -37,7 +37,6 @@
 
 
 
-
 .main-section.-projects{
     background-image: url(../../assets/img/background\ 2.png);
     display: flex;
@@ -47,6 +46,7 @@
 
 .main-section.-projects .wrapper{
     display: flex;
+    width: 1000px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
