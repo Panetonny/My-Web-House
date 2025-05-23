@@ -46,8 +46,6 @@
 
 .main-section.-projects .wrapper{
     display: flex;
-    width: 1000px;
-    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
 }
