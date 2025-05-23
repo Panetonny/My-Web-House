@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+.skills-tec .rigth{
+    display: flex;
+    flex-direction: column;
+}
 .skills-tec .icon{
     margin-right: 15px;
     width: 100px;
