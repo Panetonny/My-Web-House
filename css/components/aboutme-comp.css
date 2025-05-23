@@ -1,0 +1,18 @@
+.aboutme-comp .icon{
+    width: 275px;
+    height: 275px;
+}
+
+.aboutme-comp .description{
+    color: white;
+    text-align: center;
+}
+
+.aboutme-comp .wrapper{
+    display: flex;
+}
+
+.aboutme-comp .wrapper .main-paragrafo{
+    align-items: start;
+    margin-left: 5px;
+}
