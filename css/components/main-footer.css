@@ -1,0 +1,6 @@
+.main-footer{
+    display: flex;
+    justify-content: center;
+    height: 59;
+    background-color: #EB5E28;
+}
