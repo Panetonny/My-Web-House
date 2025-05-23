@@ -23,19 +23,13 @@
 .main-section.-skill .wrapper{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .main-section.-skill .wrapper .skills-tec{
     margin-bottom: 20px;
 }
 
-.main-section.-skill .wrapper .skills-tec:nth-child(odd){
-    margin-right: 100px;
-}
-
-.main-section.-skill .wrapper .skills-tec:last-child{
-    margin-top: 150px;
-}
 
 
 
