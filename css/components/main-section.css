@@ -52,7 +52,7 @@
     margin-bottom: 50px;
 }
 
-.main-section.main-section.-projects .main-project:nth-child(3n){
+.main-section.-projects .main-project:nth-child(3n){
     margin-right: 0;
 }
 
