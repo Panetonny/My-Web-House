@@ -4,6 +4,7 @@
     height: 690px;
     background-image: url(../../assets/img/background.jpeg);
     background-size: 100%;
+    background-repeat: no-repeat;
     border-bottom: 10px solid gray;
 }
 
