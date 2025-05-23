@@ -1,5 +1,5 @@
 .main-section{
-    padding: 40px 30px;  
+    padding: 40px 60px;  
     border-bottom: 10px solid black;
 }
 
@@ -16,10 +16,13 @@
     height: 800px;
 }
 
+.main-section.-skill .main-title.-second{
+    text-align: center;
+}
+
 .main-section.-skill .wrapper{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
 }
 
 .main-section.-skill .wrapper .skills-tec{
